@@ -1,6 +1,5 @@
 var jwt = require('jwt-simple');
 
-
 var auth = {
 
 	login: function(req, res) {
